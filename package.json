@@ -1,0 +1,7 @@
+{
+  "name": "tinymce5-in-one",
+  "version": "5.1.4",
+  "description": "Build all tinymce5 plugins into one js",
+  "author": "Gsan",
+  "license": "MIT"
+}
